@@ -1,0 +1,4 @@
+#Wed Jun 16 16:28:29 IST 2021
+base.0=/home/rishab/AndroidStudioProjects/Km_to_miles/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
