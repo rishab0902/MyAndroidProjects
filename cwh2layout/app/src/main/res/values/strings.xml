@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cwh2layout</string>
+    <string name="enter_now">Enter_now</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+
+</resources>
